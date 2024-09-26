@@ -1,0 +1,24 @@
+name: Build Android v2
+
+on:
+  push:
+    branches:
+      - develop
+    tags:
+      - dev-v-*
+  workflow_dispatch:
+
+concurrency:
+  group: ${{ github.workflow }}
+  cancel-in-progress: true
+
+jobs:
+  android-build:
+    uses: mirai-game-studio/sdk/.github/workflows/android-build-v2.yml@runner
+    secrets: inherit
+    with:
+      keystore-path: "Assets/MiraiStudio/Editor/miraistudiokeystore.keystore"
+      keystore-name: "miraistudio"
+      submodules: |
+        git submodule set-url Assets/MiraiStudio https://{secrets:SDK_DEPLOY_TOKEN}@github.com/mirai-game-studio/miraistudio-submodules.git
+        git submodule set-url Assets/MiraiSDK https://{secrets:SDK_DEPLOY_TOKEN}@github.com/mirai-game-studio/miraistudio-sdk-submodules.git

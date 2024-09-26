@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "281654124531",
+    "project_id": "miraisdk",
+    "storage_bucket": "miraisdk.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:281654124531:android:f1ab0ca2969fc273b27c86",
+        "android_client_info": {
+          "package_name": "com.miraistudio.unitytemplate"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGXYf1TB0757FzaT78IqUsX3PotnZ_4O4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

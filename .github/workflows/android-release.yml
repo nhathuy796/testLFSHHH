@@ -1,0 +1,21 @@
+name: Release Android
+
+on:
+  push:
+    tags:
+      - release-v-*
+
+concurrency:
+  group: ${{ github.workflow }}
+  cancel-in-progress: false
+
+jobs:
+  android-release:
+    uses: mirai-game-studio/sdk/.github/workflows/android-release.yml@runner
+    secrets: inherit
+    with:
+      keystore-path: "Assets/MiraiStudio/Editor/miraistudiokeystore.keystore"
+      keystore-name: "miraistudio"
+      submodules: |
+        git submodule set-url Assets/MiraiStudio https://{secrets:SDK_DEPLOY_TOKEN}@github.com/mirai-game-studio/miraistudio-submodules.git
+        git submodule set-url Assets/MiraiSDK https://{secrets:SDK_DEPLOY_TOKEN}@github.com/mirai-game-studio/miraistudio-sdk-submodules.git

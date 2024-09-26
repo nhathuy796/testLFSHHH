@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 652ebd02c42042642a6a9d053c147468, type: 3}
+  m_Name: DVAH_Data
+  m_EditorClassIdentifier: 
+  LinkGoogleSheet: 
+  NameGoogleSheet: 
+  AppFlyer_DevKey: 
+  Facebook_AppID: 28057961862
+  Facebook_ClientToken: f1c0cf445d49183b9fbd1865528dd05b
+  IsMediationDebugger: 0
+  MEDIATION_NETWORK: 1
+  AppLovin_SDK_Key: sdKdF4f4EDX3gDNhzOUhyJJb5ITQnA8hbqpGLC6P-70pG-kW7OuJyLP8BFqS1bC41L2hc1Dibn168yhzNbTD6T
+  IS_App_Key: 85460dcd
+  Google_Android_AppID: ca-app-pub-3940256099942544~3347511713
+  Google_IOS_AppID: ca-app-pub-3940256099942544~3347511713
+  adUnits:
+    m_keys: 00000000010000000200000003000000040000000500000006000000
+    m_values:
+    - AdUnitDatas:
+      - network: 0
+        UnitId: test
+    - AdUnitDatas:
+      - network: 3
+        UnitId: banner
+    - AdUnitDatas:
+      - network: 1
+        UnitId: f96c1b67134ee936
+    - AdUnitDatas:
+      - network: 3
+        UnitId: f3e79a04948ef271
+    - AdUnitDatas: []
+    - AdUnitDatas:
+      - network: 3
+        UnitId: 123123123
+    - AdUnitDatas: []
+  BannerPosition: 7
+  MrecsPosition: 8
+  BannerDefaultShow: 1
+  MrecsDefaultShow: 1
+  RemoteDataDefault:
+    m_keys: []
+    m_values: []
+  FirebaseRemoteDatas:
+    m_keys:
+    - Test
+    m_values:
+    - vvvvv
+  CHEAT_BUILD: 0
+  Report: 

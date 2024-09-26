@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<dependencies>
+    <androidPackages>
+        <androidPackage spec="com.applovin.mediation:bigoads-adapter:4.9.1.0" />
+    </androidPackages>
+    <iosPods>
+        <iosPod name="AppLovinMediationBigoAdsAdapter" version="4.5.1.0" />
+    </iosPods>
+</dependencies>

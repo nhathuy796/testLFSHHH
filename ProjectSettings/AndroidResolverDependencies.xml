@@ -1,0 +1,161 @@
+<dependencies>
+  <packages>
+    <package>androidx.constraintlayout:constraintlayout:2.1.4</package>
+    <package>androidx.legacy:legacy-support-v4:1.0.0</package>
+    <package>androidx.recyclerview:recyclerview:1.2.1</package>
+    <package>co.ogury:ogury-sdk:5.8.0</package>
+    <package>com.amazon.android:aps-sdk:9.10.0+</package>
+    <package>com.android.installreferrer:installreferrer:2.1</package>
+    <package>com.android.support:appcompat-v7:25.3.1</package>
+    <package>com.android.support:cardview-v7:25.3.1</package>
+    <package>com.android.support:customtabs:25.3.1</package>
+    <package>com.android.support:customtabs:28.+</package>
+    <package>com.android.support:recyclerview-v7:28.+</package>
+    <package>com.android.support:support-v4:25.3.1</package>
+    <package>com.applovin.mediation:bidmachine-adapter:3.0.1.2</package>
+    <package>com.applovin.mediation:bigoads-adapter:4.9.1.0</package>
+    <package>com.applovin.mediation:bytedance-adapter:6.2.0.6.0</package>
+    <package>com.applovin.mediation:chartboost-adapter:9.7.0.3</package>
+    <package>com.applovin.mediation:facebook-adapter:[6.18.0.0]</package>
+    <package>com.applovin.mediation:fyber-adapter:8.3.1.1</package>
+    <package>com.applovin.mediation:google-adapter:[23.3.0.1]</package>
+    <package>com.applovin.mediation:google-ad-manager-adapter:[23.3.0.1]</package>
+    <package>com.applovin.mediation:hyprmx-adapter:6.4.2.1</package>
+    <package>com.applovin.mediation:inmobi-adapter:10.7.7.2</package>
+    <package>com.applovin.mediation:ironsource-adapter:8.3.0.0.2</package>
+    <package>com.applovin.mediation:line-adapter:2024.8.27.1</package>
+    <package>com.applovin.mediation:maio-adapter:1.1.16.3</package>
+    <package>com.applovin.mediation:mintegral-adapter:16.8.51.2</package>
+    <package>com.applovin.mediation:mobilefuse-adapter:1.7.6.1</package>
+    <package>com.applovin.mediation:moloco-adapter:3.2.0.0</package>
+    <package>com.applovin.mediation:mytarget-adapter:5.22.1.1</package>
+    <package>com.applovin.mediation:ogury-presage-adapter:5.8.0.0</package>
+    <package>com.applovin.mediation:pubmatic-adapter:3.9.0.2</package>
+    <package>com.applovin.mediation:smaato-adapter:22.7.0.1</package>
+    <package>com.applovin.mediation:unityads-adapter:4.12.3.0</package>
+    <package>com.applovin.mediation:verve-adapter:3.0.4.1</package>
+    <package>com.applovin.mediation:vungle-adapter:7.4.1.2</package>
+    <package>com.applovin.mediation:yandex-adapter:7.5.0.0</package>
+    <package>com.applovin.mediation:yso-network-adapter:1.2.6.0</package>
+    <package>com.applovin:applovin-sdk:12.6.1</package>
+    <package>com.applovin:applovin-sdk:13.0.0</package>
+    <package>com.appsflyer:adrevenue:6.9.1</package>
+    <package>com.appsflyer:af-android-sdk:6.14.0</package>
+    <package>com.appsflyer:unity-adrevenue-generic-wrapper:6.9.1</package>
+    <package>com.appsflyer:unity-wrapper:6.14.3</package>
+    <package>com.bigossp:bigo-ads:4.9.0</package>
+    <package>com.bigossp:bigo-ads:4.9.1</package>
+    <package>com.bigossp:ironsource-mediation:4.9.0.0</package>
+    <package>com.chartboost:chartboost-sdk:9.7.0</package>
+    <package>com.facebook.android:audience-network-sdk:6.18.0</package>
+    <package>com.facebook.android:facebook-applinks:[17.0.0,18)</package>
+    <package>com.facebook.android:facebook-core:[17.0.0,18)</package>
+    <package>com.facebook.android:facebook-gamingservices:[17.0.0,18)</package>
+    <package>com.facebook.android:facebook-login:[17.0.0,18)</package>
+    <package>com.facebook.android:facebook-share:[17.0.0,18)</package>
+    <package>com.fyber:marketplace-sdk:8.2.7</package>
+    <package>com.google.android.exoplayer:exoplayer:2.19.1</package>
+    <package>com.google.android.gms:play-services-ads:23.2.0</package>
+    <package>com.google.android.gms:play-services-ads:23.3.0</package>
+    <package>com.google.android.gms:play-services-ads-identifier:16.0.0</package>
+    <package>com.google.android.gms:play-services-ads-identifier:18.0.1</package>
+    <package>com.google.android.gms:play-services-base:16.1.0</package>
+    <package>com.google.android.gms:play-services-base:18.4.0</package>
+    <package>com.google.android.gms:play-services-basement:18.1.0</package>
+    <package>com.google.android.play:app-update:2.1.0</package>
+    <package>com.google.android.play:asset-delivery:2.2.1</package>
+    <package>com.google.android.play:core-common:2.0.4</package>
+    <package>com.google.android.play:review:2.0.0</package>
+    <package>com.google.android.ump:user-messaging-platform:2.0.0</package>
+    <package>com.google.android.ump:user-messaging-platform:2.2.0</package>
+    <package>com.google.code.gson:gson:2.8.5</package>
+    <package>com.google.firebase:firebase-analytics:22.0.0</package>
+    <package>com.google.firebase:firebase-analytics-unity:12.0.0</package>
+    <package>com.google.firebase:firebase-app-unity:12.0.0</package>
+    <package>com.google.firebase:firebase-common:21.0.0</package>
+    <package>com.google.firebase:firebase-config:22.0.0</package>
+    <package>com.google.firebase:firebase-config-unity:12.0.0</package>
+    <package>com.google.firebase:firebase-crashlytics-ndk:19.0.0</package>
+    <package>com.google.firebase:firebase-crashlytics-unity:12.0.0</package>
+    <package>com.google.firebase:firebase-iid:21.1.0</package>
+    <package>com.google.firebase:firebase-messaging:24.0.0</package>
+    <package>com.google.firebase:firebase-messaging-unity:12.0.0</package>
+    <package>com.google.flatbuffers:flatbuffers-java:1.12.0</package>
+    <package>com.hyprmx.android:HyprMX-SDK:6.4.2</package>
+    <package>com.inmobi.monetization:inmobi-ads-kotlin:10.7.7</package>
+    <package>com.ironsource.adapters:admobadapter:4.3.45</package>
+    <package>com.ironsource.adapters:applovinadapter:4.3.46</package>
+    <package>com.ironsource.adapters:apsadapter:4.3.13</package>
+    <package>com.ironsource.adapters:bidmachineadapter:4.3.9</package>
+    <package>com.ironsource.adapters:bigoadapter:4.3.1</package>
+    <package>com.ironsource.adapters:chartboostadapter:4.3.16</package>
+    <package>com.ironsource.adapters:facebookadapter:4.3.48</package>
+    <package>com.ironsource.adapters:fyberadapter:4.3.32</package>
+    <package>com.ironsource.adapters:hyprmxadapter:4.3.10</package>
+    <package>com.ironsource.adapters:inmobiadapter:4.3.26</package>
+    <package>com.ironsource.adapters:maioadapter:4.1.11</package>
+    <package>com.ironsource.adapters:mintegraladapter:4.3.29</package>
+    <package>com.ironsource.adapters:mobilefuseadapter:4.3.1</package>
+    <package>com.ironsource.adapters:molocoadapter:4.3.5</package>
+    <package>com.ironsource.adapters:mytargetadapter:4.1.20</package>
+    <package>com.ironsource.adapters:oguryadapter:4.3.0</package>
+    <package>com.ironsource.adapters:pangleadapter:4.3.29</package>
+    <package>com.ironsource.adapters:smaatoadapter:4.3.11</package>
+    <package>com.ironsource.adapters:superawesomeadapter:4.1.10</package>
+    <package>com.ironsource.adapters:unityadsadapter:4.3.43</package>
+    <package>com.ironsource.adapters:verveadapter:4.3.1</package>
+    <package>com.ironsource.adapters:vungleadapter:4.3.26</package>
+    <package>com.ironsource.adapters:yandexadapter:4.3.4</package>
+    <package>com.ironsource.sdk:mediationsdk:8.3.0</package>
+    <package>com.ironsource.unity:adqualitysdk:7.20.2</package>
+    <package>com.ironsource:adqualitysdk:7.20.2</package>
+    <package>com.maio:android-sdk:1.1.16@aar</package>
+    <package>com.mbridge.msdk.oversea:mbbanner:16.8.51</package>
+    <package>com.mbridge.msdk.oversea:mbbid:16.8.51</package>
+    <package>com.mbridge.msdk.oversea:newinterstitial:16.8.51</package>
+    <package>com.mbridge.msdk.oversea:reward:16.8.51</package>
+    <package>com.mobilefuse.sdk:mobilefuse-sdk-core:1.7.6</package>
+    <package>com.moloco.sdk:moloco-sdk:3.1.0</package>
+    <package>com.my.target:mytarget-sdk:5.22.1</package>
+    <package>com.pangle.global:ads-sdk:6.2.0.6</package>
+    <package>com.parse.bolts:bolts-android:1.4.0</package>
+    <package>com.smaato.android.sdk:smaato-sdk-banner:22.7.0</package>
+    <package>com.smaato.android.sdk:smaato-sdk-in-app-bidding:22.7.0</package>
+    <package>com.squareup.picasso:picasso:2.71828</package>
+    <package>com.unity3d.ads:unity-ads:4.12.3</package>
+    <package>com.vungle:vungle-ads:7.4.1</package>
+    <package>com.yandex.android:mobileads:7.4.0</package>
+    <package>io.bidmachine:ads:3.0.1</package>
+    <package>net.pubnative:hybid.sdk:3.0.4</package>
+    <package>tv.superawesome.sdk.publisher:superawesome:9.4.0</package>
+  </packages>
+  <files>
+    <file>Assets/GeneratedLocalRepo/Firebase/m2repository/com/google/firebase/firebase-analytics-unity/12.0.0/firebase-analytics-unity-12.0.0.aar</file>
+    <file>Assets/GeneratedLocalRepo/Firebase/m2repository/com/google/firebase/firebase-analytics-unity/12.0.0/firebase-analytics-unity-12.0.0.pom</file>
+    <file>Assets/GeneratedLocalRepo/Firebase/m2repository/com/google/firebase/firebase-app-unity/12.0.0/firebase-app-unity-12.0.0.aar</file>
+    <file>Assets/GeneratedLocalRepo/Firebase/m2repository/com/google/firebase/firebase-app-unity/12.0.0/firebase-app-unity-12.0.0.pom</file>
+    <file>Assets/GeneratedLocalRepo/Firebase/m2repository/com/google/firebase/firebase-config-unity/12.0.0/firebase-config-unity-12.0.0.aar</file>
+    <file>Assets/GeneratedLocalRepo/Firebase/m2repository/com/google/firebase/firebase-config-unity/12.0.0/firebase-config-unity-12.0.0.pom</file>
+    <file>Assets/GeneratedLocalRepo/Firebase/m2repository/com/google/firebase/firebase-crashlytics-unity/12.0.0/firebase-crashlytics-unity-12.0.0.aar</file>
+    <file>Assets/GeneratedLocalRepo/Firebase/m2repository/com/google/firebase/firebase-crashlytics-unity/12.0.0/firebase-crashlytics-unity-12.0.0.pom</file>
+    <file>Assets/GeneratedLocalRepo/Firebase/m2repository/com/google/firebase/firebase-messaging-unity/12.0.0/firebase-messaging-unity-12.0.0.aar</file>
+    <file>Assets/GeneratedLocalRepo/Firebase/m2repository/com/google/firebase/firebase-messaging-unity/12.0.0/firebase-messaging-unity-12.0.0.pom</file>
+  </files>
+  <settings>
+    <setting name="androidAbis" value="arm64-v8a,armeabi-v7a" />
+    <setting name="bundleId" value="com.miraistudio.unitytemplate" />
+    <setting name="explodeAars" value="True" />
+    <setting name="gradleBuildEnabled" value="True" />
+    <setting name="gradlePropertiesTemplateEnabled" value="True" />
+    <setting name="gradleTemplateEnabled" value="True" />
+    <setting name="installAndroidPackages" value="True" />
+    <setting name="localMavenRepoDir" value="Assets/GeneratedLocalRepo" />
+    <setting name="packageDir" value="Assets/Plugins/Android" />
+    <setting name="patchAndroidManifest" value="True" />
+    <setting name="patchMainTemplateGradle" value="True" />
+    <setting name="projectExportEnabled" value="False" />
+    <setting name="useFullCustomMavenRepoPathWhenExport" value="True" />
+    <setting name="useFullCustomMavenRepoPathWhenNotExport" value="False" />
+    <setting name="useJetifier" value="True" />
+  </settings>
+</dependencies>

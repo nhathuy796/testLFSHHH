@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:keep="@string/gcm_defaultSenderId,@string/google_storage_bucket,@string/project_id,@string/google_api_key,@string/google_crash_reporting_api_key,@string/google_app_id">
+  <string name="gcm_defaultSenderId" translatable="false">281654124531</string>
+  <string name="google_storage_bucket" translatable="false">miraisdk.appspot.com</string>
+  <string name="project_id" translatable="false">miraisdk</string>
+  <string name="google_api_key" translatable="false">AIzaSyDGXYf1TB0757FzaT78IqUsX3PotnZ_4O4</string>
+  <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDGXYf1TB0757FzaT78IqUsX3PotnZ_4O4</string>
+  <string name="google_app_id" translatable="false">1:281654124531:android:f1ab0ca2969fc273b27c86</string>
+</resources>

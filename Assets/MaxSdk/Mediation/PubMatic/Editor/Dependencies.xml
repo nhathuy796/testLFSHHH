@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<dependencies>
+    <androidPackages>
+        <androidPackage spec="com.applovin.mediation:pubmatic-adapter:3.9.0.2">
+            <repositories>
+                <repository>https://repo.pubmatic.com/artifactory/public-repos-gradle</repository>
+            </repositories>
+        </androidPackage>
+    </androidPackages>
+    <iosPods>
+        <iosPod name="AppLovinMediationPubMaticAdapter" version="3.9.0.3" />
+    </iosPods>
+</dependencies>

@@ -1,0 +1,8 @@
+[submodule "Assets/MiraiStudio"]
+	path = Assets/MiraiStudio
+	url = git@github.com:mirai-game-studio/miraistudio-shader-submodules.git
+	branch = develop
+[submodule "Assets/MiraiSDK"]
+	path = Assets/MiraiSDK
+	url = git@github.com:mirai-game-studio/miraistudio-sdk-submodules.git
+	branch = newSDK2
